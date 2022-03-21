@@ -7,7 +7,7 @@ export default {
 	output: {
 		file: 'dist/bundle.js',
 		format: 'umd',
-		name: 'Buffer',
+		name: 'BufferUMD',
 		// globals: {'@webassemblyjs/wasm-parser': 'wasmParser'},
 	},
 	// external: ['@webassemblyjs/wasm-parser'], // <-- suppresses the warning
